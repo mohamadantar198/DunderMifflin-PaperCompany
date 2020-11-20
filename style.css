@@ -1,0 +1,86 @@
+body{
+	font-family: tahoma;
+	background: url('mic.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+h1{
+	background-color: rgba(0,0,256,.6);
+	margin: -8px;
+	
+	word-spacing: 20px;
+	letter-spacing: 15px;
+	text-align: center;
+	padding: 20px;
+	color: white
+}
+h2{
+	word-spacing: 0;
+	letter-spacing: normal;
+	text-align: center;
+	padding: 20px;
+	margin-top: -60px;
+	margin-left: 540px;
+	font-size: 12px;
+	color: white;
+
+}
+ul{
+	list-style-type: none;
+	text-align: center;
+	background-color: rgba(0,0,250,.1);
+	margin: -5px 0;
+	padding: 8px
+	 
+
+}
+
+li{
+	display:inline-block;
+	text-transform: uppercase;
+	margin: 15px
+
+}
+a{
+	text-decoration: none;
+	color: rgba(0,0,256,.5);
+	font-weight: bold;
+}
+h3{ 
+	color: white;
+	 margin: 130px 80px;
+	 font-size: 50px;
+	 font-weight: normal;
+	 letter-spacing: 10px
+
+	}
+h4{
+	color: white;
+	 margin:-230px 220px;
+	 font-size: 20px;
+	 font-weight: normal;
+	 letter-spacing: 5px
+}
+
+button{
+	margin-top: 400px;
+	
+	width: 250px;
+	padding: 5px;
+	letter-spacing: 5px;
+	word-spacing: 8px;
+	border:none;
+	border-radius: 25px;
+	color:blue;
+	font-size: 18px
+}
+
+.btt{
+	margin-left: 60px
+}
+.btt1{
+	margin-left: 70px;
+}
